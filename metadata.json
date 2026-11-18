@@ -1,0 +1,6 @@
+{
+  "name": "Controle LG Smart",
+  "description": "Controle inteligente para TVs LG webOS modelo Smart Magic MR22GA, combinando a interface do ControllaLG com o touchpad gestual do LG ThinQ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

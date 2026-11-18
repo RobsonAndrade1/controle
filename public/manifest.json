@@ -1,0 +1,38 @@
+{
+  "id": "/",
+  "name": "Controle LG Smart",
+  "short_name": "Controle LG Smart",
+  "description": "Controle inteligente para TVs LG webOS modelo Smart Magic MR22GA com touchpad gestual e atalhos de apps.",
+  "theme_color": "#0e1013",
+  "background_color": "#0e1013",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
